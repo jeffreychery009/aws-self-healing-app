@@ -70,4 +70,4 @@ The Node.js process was terminated manually (simulated failure). No process mana
 
 This diagram shows how the self-healing app automatically recovers from failures using AWS services.
 
-![Architecture Diagram](./docs/self-healing-app-architecture.png)
+![Architecture Diagram](./docs/self-healing-app-diagram.png)
