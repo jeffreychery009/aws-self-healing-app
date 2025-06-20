@@ -64,3 +64,10 @@ The Node.js process was terminated manually (simulated failure). No process mana
 - Process monitoring and recovery (Unix tools)  
 - Root cause analysis  
 - Planning for auto-recovery (PM2, CloudWatch)
+
+
+## 🔧 System Architecture
+
+This diagram shows how the self-healing app automatically recovers from failures using AWS services.
+
+![Architecture Diagram](./docs/self-healing-app-architecture.png)
