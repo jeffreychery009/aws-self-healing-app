@@ -93,7 +93,8 @@ This architecture shows the system design for the self-healing infrastructure:
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-View the architecture diagram by clicking this link
+---
+Below you will find the architecture for the Self-Healing-App
 
 ![Self-Healing App Architecture](docs/self-healing-app-diagram.drawio.png)
 
